@@ -222,7 +222,7 @@ export default {
       category: [
         {
           name: "Cupcake",
-          img: "../../assets/img/items/cupcake.png",
+          img: "@/assets/img/items/cupcake.png",
           amount: "22",
           color: "#F0FEEB",
         },
