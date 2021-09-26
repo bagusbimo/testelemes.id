@@ -222,31 +222,31 @@ export default {
       category: [
         {
           name: "Cupcake",
-          img: "assets/img/items/cupcake.png",
+          img: "https://i.ibb.co/CKzDMkc/cupcake.png",
           amount: "22",
           color: "#F0FEEB",
         },
         {
           name: "Pizza",
-          img: "../../assets/img/items/pizza.png",
+          img: "https://i.ibb.co/HFPnZw5/pizza.png",
           amount: "25",
           color: "#F0FEEB",
         },
         {
           name: "Kebab",
-          img: "../../assets/img/items/kebab.png",
+          img: "https://i.ibb.co/DgddgLJ/kebab.png",
           amount: "12",
           color: "#EAEEFA",
         },
         {
           name: "Salmon",
-          img: "../../assets/img/items/salmon.png",
+          img: "https://i.ibb.co/2yYKxBp/salmon.png",
           amount: "22",
           color: "#F9EEF3",
         },
         {
           name: "Doughnut",
-          img: "../../assets/img/items/doughnut.png",
+          img: "https://i.ibb.co/6g9NxTZ/doughnut.png",
           amount: "11",
           color: "#F3F7D9",
         },
